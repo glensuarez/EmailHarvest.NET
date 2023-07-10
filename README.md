@@ -1,4 +1,4 @@
-# EmailHarvest.NET 📧💻🌐
+# EmailHarvest.NET - WEB SCRAPING 📧💻🌐
 Web Page Email Extractor (C#) 📧💼🔎
 
 This application, developed using the C# programming language, is a powerful email extractor that allows for efficient extraction of all email addresses found on a web page. With this tool, you can automate the process of collecting email addresses and streamline your search and contact tasks. Boost your productivity and enhance your email marketing efforts with EmailHarvest.NET! 🚀📧💪
